@@ -11,7 +11,7 @@ When uploading mods and/or extensions, make sure to place them into a subfolder 
 
 An example of the extension format would be as follows:
 
-```ini
+```
     -   extensions\
     -   -   game-action-taimanin\
     -   -   -   actiontaimanin.png
