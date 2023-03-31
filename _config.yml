@@ -1,9 +1,13 @@
-title: 
+title: Vortex
 description: >
 A collection of extensions and mods for Vortex Mod Manager.
 
 show_exerpts: false
+
 site_favicon: favicon.ico
+
+site_theme: dark
+
 remote_theme: just-the-docs/just-the-docs
 
 header_pages:
