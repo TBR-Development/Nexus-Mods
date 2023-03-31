@@ -11,5 +11,7 @@ Extensions for Vortex Mod Manager
 
 ## Available Extensions
 
-    * **Action Taimanin**: Vortex support for Action Taimanin.
-    ![](./game-action-taimanin/actiontaimanin.png)
+* **Action Taimanin**: Vortex support for Action Taimanin.<br />
+![][actiontaimanin]
+
+[actiontaimanin]: ./game-action-taimanin/actiontaimanin.png
