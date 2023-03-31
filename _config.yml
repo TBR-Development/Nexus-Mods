@@ -1,0 +1,12 @@
+title: 
+description: >
+A collection of extensions and mods for Vortex Mod Manager.
+
+show_exerpts: false
+site_favicon: favicon.ico
+remote_theme: just-the-docs/just-the-docs
+
+header_pages:
+  - README.md
+  - extensions/README.md
+  - mods/README.md
