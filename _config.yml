@@ -11,6 +11,6 @@ site_theme: dark
 remote_theme: just-the-docs/just-the-docs
 
 header_pages:
-  - README.md
-  - extensions/README.md
-  - mods/README.md
+  - index.md
+  - extensions/extensions.md
+  - mods/mods.md
