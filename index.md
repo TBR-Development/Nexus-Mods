@@ -18,22 +18,24 @@ When uploading mods and/or extensions to our repo, make sure to place them into 
 
 
 ### Extensions
-Here is a list of extentions built and maintained by TBR Development.
+Here is a list of extentions built and maintained by **TBR Development**.
 
 ---
 
-**Game Support**
-
- * **Action Taimanin**<br />
- Add support for Action Taimanin to Vortex Mod Manager.<br />
+ * **Action Taimanin Support**<br />
+ Add support for **Action Taimanin** to **Vortex Mod Manager**.<br />
  Mod Page: [Nexus Mods - Action Taimanin Support][03]<br />
 
 ---
 
 ### Mods
-Here is a list of mods built and maintained by TBR Development.
+Here is a list of mods built and maintained by **TBR Development**.
 
 ---
+
+
+---
+
 
 [01]: https://github.com/tbr-development/Nexus-Mods
 [02]: https://wiki.nexusmods.com/index.php/Category:Tutorials
