@@ -25,18 +25,15 @@ Here is a list of extentions built and maintained by TBR Development.
 
 **Game Support**
 
-* **Action Taimanin**<br />
-Add support for Action Taimanin to Vortex Mod Manager.
+ * **Action Taimanin**<br />
+ Add support for Action Taimanin to Vortex Mod Manager.<br />
+ Mod Page: [Nexus Mods - Action Taimanin Support][actiontaimanin]<br />
 
-![][img-actiontaimanin]
-
-**Mod Page**: [Nexus Mods - Action Taimanin Support][page-actiontaimanin]
+---
 
 ### Mods
 Here is a list of mods built and maintained by TBR Development.
 
 ---
 
-
-[img-actiontaimanin]: ./extensions/game/action-taimanin/actiontaimanin.png
-[page-actiontaimanin]: https://www.nexusmods.com/site/mods/546
+[actiontaimanin]: https://www.nexusmods.com/site/mods/546
