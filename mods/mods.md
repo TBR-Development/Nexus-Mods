@@ -4,7 +4,5 @@ title: Mods
 permalink: /mods/
 ---
 
-# Vortex Mods
-Mods for Vortex Mod Manager
-
-## Available Mods
+# Mods
+Here is a list of mods built and maintained by TBR Development.

@@ -5,13 +5,12 @@ permalink: /extensions/
 ---
 
 
-# Vortex Extnsions
-Extensions for Vortex Mod Manager
+# Extensions
+Here is a list of extentions built and maintained by TBR Development.
 
-
-## Available Extensions
+## Game Support
 
 * **Action Taimanin**: Vortex support for Action Taimanin.<br />
-![][actiontaimanin]
+![][ActionTaimanin]
 
-[actiontaimanin]: ./game-action-taimanin/actiontaimanin.png
+[ActionTaimanin]: ./game/action-taimanin/actiontaimanin.png
