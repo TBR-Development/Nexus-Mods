@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mods
-permalink: /README/
+permalink: /mods
 ---
 
 **Mods**<br />
