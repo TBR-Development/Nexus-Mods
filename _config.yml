@@ -1,15 +1,39 @@
 title: Nexus Mods
 description: >
   A collection of extensions and mods for Nexus Mods.
-
-show_exerpts: false
-
-site_favicon: favicon.ico
-
-color_scheme: dark
+baseUrl: "/Nexus-Mods" 
+url: "https://tbr-development.github.io/" 
+repository: tbr-development/Nexus-Mods
+ 
+show_excerpts: false
+permalink: pretty
 
 remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
 
+search_enabled: false
+
+aux_links:
+  "Nexus Mods on GitHub":
+    - "//github.com/tbr-develooment/Nexus-Mods"
+
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2023 TBR Development. Distributed by an <a href=\"https://github.com/tbr-develooment/Pylon-Bot/tree/main/LICENSE\">MIT license.</a>"
+  
 header_pages:
   - index.md
-  - README.md
+  - mods.md
+  - 404.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
