@@ -14,7 +14,7 @@ color_scheme: "dark"
 search_enabled: false
 
 aux_links:
-  "Nexus Mods on GitHub":
+  "Pylon Scripts on GitHub":
     - "//github.com/tbr-develooment/Nexus-Mods"
 
 aux_links_new_tab: true
@@ -22,11 +22,11 @@ aux_links_new_tab: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2023 TBR Development. Distributed by an <a href=\"https://github.com/tbr-develooment/Pylon-Bot/tree/main/LICENSE\">MIT license.</a>"
+footer_content: "Copyright &copy; 2023 TBR Development. Distributed by an <a href=\"https://raw.githubusercontent.com/TBR-Development/Nexus-Mods/main/LICENSE\">MIT license.</a>"
   
 header_pages:
   - index.md
-  - mods.md
+  - commands.md
   - 404.md
 
 plugins:
