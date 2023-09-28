@@ -23,6 +23,7 @@ back_to_top_text               : "Back to top"
 header_pages                   :
   - index.md
   - mods.md
+  - extensions.md
   - 404.md
 plugins                        :
   - jekyll-seo-tag
