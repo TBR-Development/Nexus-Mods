@@ -1,7 +1,8 @@
 ---
 layout: home
-title: About
+title: Home
 permalink: /
+nav_order: 1
 ---
 
 **Nexus Mods**<br />
