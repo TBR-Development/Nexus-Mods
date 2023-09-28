@@ -1,8 +1,6 @@
 title                          : Nexus Mods
 description.                   : >
-  A collection of extensions and mods for Nexus Mods.
-baseUrl                        : "/Nexus-Mods" 
-url                            : "https://tbr-development.github.io/" 
+  A collection of extensions and mods for Nexus Mods. 
 repository                     : tbr-development/Nexus-Mods
 show_excerpts                  : false
 permalink                      : pretty
